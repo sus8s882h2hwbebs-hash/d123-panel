@@ -1,0 +1,10 @@
+*.cs
+*.csproj
+*.sln
+bin/
+obj/
+.git/
+__pycache__/
+*.pyc
+d123_tokens.json
+authorized_users.json
