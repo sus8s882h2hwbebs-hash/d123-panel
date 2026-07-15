@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "python d123_panel.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
